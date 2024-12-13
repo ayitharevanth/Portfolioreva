@@ -257,7 +257,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://drive.google.com/file/d/1EcXZjRhiV0XtSXxhOLr-_sMplAykO8i5/view?usp=sharing", // Replace with actual image URL
+    img: "https://github.com/ayitharevanth/Portfolioreva/blob/main/src/assets/infosys%20s.png", // Replace with actual image URL
     role: "AI Intern",
     company: "Infosys Springboard",
     date: "October 2024 - Ongoing",
@@ -267,7 +267,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://drive.google.com/file/d/1DQ0qZQRVoptsqLX8Hh8lY2PcdgbX8tdM/view?usp=sharing", // Replace with actual image URL
+    img: "https://github.com/ayitharevanth/Portfolioreva/blob/main/src/assets/lawcrats.jpeg", // Replace with actual image URL
     role: "Frontend Developer",
     company: "Law Crats",
     date: "October 2024 (Remote)",
@@ -347,7 +347,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://drive.google.com/file/d/1GQHKIezWbU82h6hWs2qITWNKjpXKzHiO/view?usp=sharing",
+    img: "https://github.com/ayitharevanth/Portfolioreva/blob/main/src/assets/college.jpeg",
     school: "Osmania University (KMIT)",
     date: "November 2021 - May 2025",
     grade: "8.3 CGPA",
@@ -356,7 +356,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://drive.google.com/file/d/1Oc6pI3W0bz9vFhW8yMDXzXqzbQY4JJ1i/view?usp=drive_link",
+    img: "https://github.com/ayitharevanth/Portfolioreva/blob/main/src/assets/School.jpeg",
     school: "St Anthonys High School",
     date: "June 2009 - June 2019",
     grade: "9.8 CGPA",
@@ -365,7 +365,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://drive.google.com/file/d/1UjXD6EnENvuTrMAXipDYuOPkQkj3loFV/view?usp=sharing",
+    img: "https://github.com/ayitharevanth/Portfolioreva/blob/main/src/assets/narayana%20junior%20collge.png",
     school: "Narayana Junior College",
     date: "June 2019 - June 2021",
     grade: "9.32",
